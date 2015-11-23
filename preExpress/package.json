@@ -1,0 +1,22 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "learning Angular",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Raphib737/Angularfun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raphib737/Angularfun/issues"
+  },
+  "homepage": "https://github.com/Raphib737/Angularfun",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
